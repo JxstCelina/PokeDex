@@ -6,17 +6,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h3>Hier wird ein PokeDex entstehen</h3>
         <p>
-          Edit <code>src/App.js</code> and save to reloaddddddddddddd.
+         Haben Sie bitte Geduld :)
         </p>
-        <a
+        {/* <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a> */}
       </header>
     </div>
   );
