@@ -9,6 +9,7 @@ function App() {
         <h3>Hier wird ein PokeDex entstehen</h3>
         <p>
          Haben Sie bitte Geduld :)
+         Danke :)
         </p>
         {/* <a
           className="App-link"
